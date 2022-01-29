@@ -9,3 +9,4 @@ Data cleaning
 EDA
 Machine learning
 Additionally we have the data set in csv format and the presentation of the project.
+
